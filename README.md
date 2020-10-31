@@ -1,4 +1,4 @@
-# StuDark
+# StuDark (0.6.1)
 Dark theme for studium
 
 Instalation guides:
