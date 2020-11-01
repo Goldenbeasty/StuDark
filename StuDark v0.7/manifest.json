@@ -15,7 +15,8 @@
                 "https://*.ope.ee/abi/*",
                 "https://*.ope.ee/user/*",
                 "https://*.ope.ee/groups/*",
-                "https://*.ope.ee/chat/*"
+                "https://*.ope.ee/chat/*",
+                "https://*.ope.ee/q*"
                  ],
                   "js" : ["content.js"]
         }
