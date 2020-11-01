@@ -1,4 +1,4 @@
-# StuDark (0.7.1)
+# StuDark (0.7.2)
 Dark theme for studium
 
 Allalaadimislink: https://github.com/Goldenbeasty/StuDark/releases/download/v0.7.1/StuDark.v0.7.1.zip
