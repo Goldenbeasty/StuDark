@@ -9,6 +9,7 @@ let parrentname = document.getElementsByTagName("i");
 		elt.style['color'] = 'rgb(87, 170, 242)';
 		elt.style['background-color'] = 'rgba(40,40,40,0.98)';
 	}
+	
 	let kodutoo = document.getElementsByTagName("strong");
 	for(elt of kodutoo)
 	{

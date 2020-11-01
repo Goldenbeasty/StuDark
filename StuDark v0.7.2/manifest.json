@@ -4,7 +4,7 @@
     "short_name": "StuDark",
    
 
-    "version" : "0.7",
+    "version" : "0.7.2",
     "description":"Tume teema on siin. BETA (Suhtlus ei tööta)",
 	"content_scripts" : [
 		{
@@ -14,9 +14,10 @@
                 "https://*.ope.ee/registreeri/*",
                 "https://*.ope.ee/abi/*",
                 "https://*.ope.ee/user/*",
-                "https://*.ope.ee/groups/*",
+                "https://*.ope.ee/groups*",
                 "https://*.ope.ee/chat/*",
-                "https://*.ope.ee/q*"
+                "https://*.ope.ee/q*",
+                "https://*.ope.ee/users/*"
                  ],
                   "js" : ["content.js"]
         }
