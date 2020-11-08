@@ -4,7 +4,7 @@
     "short_name": "StuDark",
    
 
-    "version" : "0.8",
+    "version" : "0.9",
     "description":"Tume teema on siin. BETA",
 	"content_scripts" : [
 		{
@@ -28,7 +28,7 @@
 			"matches" : [
                 "https://*.ope.ee/suhtlus/*"
                  ],
-                  "js" : ["puresuhtluscontent.js"]
+                  "js" : ["suhtluscontent.js"]
         }
 
     ],
