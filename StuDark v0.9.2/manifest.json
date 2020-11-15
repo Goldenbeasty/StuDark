@@ -4,7 +4,7 @@
     "short_name": "StuDark",
    
 
-    "version" : "0.9",
+    "version" : "0.9.2",
     "description":"Tume teema on siin. BETA",
 	"content_scripts" : [
 		{
@@ -20,7 +20,8 @@
                 "https://*.ope.ee/users/*",
                 "https://*.ope.ee/tunnistus/*",
                 "https://*.ope.ee/notes/*",
-                "https://*.ope.ee/grades/*"
+                "https://*.ope.ee/grades/*",
+                "https://*.ope.ee/subjects/*"
                  ],
                   "js" : ["content.js"]
         },
