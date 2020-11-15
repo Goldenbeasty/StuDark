@@ -7,7 +7,7 @@ Allalaadides saate te .zip faili, mille lahtipakkimiseks peate seda faili paremk
 pärast seda vajutage extract ja järgige juhiseid
 
 Juhised:
-video:<iframe width="560" height="315" src="https://www.youtube.com/embed/2VkRX69KOZk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+video: <iframe width="560" height="315" src="https://www.youtube.com/embed/2VkRX69KOZk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
