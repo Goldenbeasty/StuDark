@@ -37,7 +37,8 @@ const types = [
 	"li",
 	"textarea",
 	"td",
-	"th"
+	"th",
+	"h4"
 ];
 for (name of types){
 let flexible = document.getElementsByTagName(name);
